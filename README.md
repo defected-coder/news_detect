@@ -17,3 +17,6 @@ TfidfVectorizer
 Logistic Regression / Naive Bayes / (your model)
 
 Joblib (for saving/loading models)
+
+#Here is the screenshot of the output.
+![image alt](https://github.com/defected-coder/news_detect/blob/47d09d3e0aa6efab6d7f7e37180dbb57593e3393/Screenshot%202025-05-16%20112654.png)
